@@ -1,0 +1,1 @@
+import{_ as a,c as e,o,a as r}from"./app.8c6567de.js";const v=JSON.parse('{"title":"Estrutura Arquivo XML","description":"","frontmatter":{},"headers":[],"relativePath":"arquivo/estrutura.md"}'),t={name:"arquivo/estrutura.md"},s=r("",4),n=[s];function i(c,u,d,m,l,p){return o(),e("div",null,n)}const h=a(t,[["render",i]]);export{v as __pageData,h as default};
