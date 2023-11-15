@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as r,a}from"./app.8c405f4d.js";const v=JSON.parse('{"title":"Arquivo XML","description":"","frontmatter":{},"headers":[],"relativePath":"arquivo/index.md"}'),i={name:"arquivo/index.md"},c=a("",5),t=[c];function d(s,n,_,l,p,u){return r(),o("div",null,t)}const f=e(i,[["render",d]]);export{v as __pageData,f as default};
