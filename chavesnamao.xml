@@ -35,6 +35,7 @@
             <lareira></lareira>
             <varanda></varanda>
             <lavanderia></lavanderia>
+            <aceita_pet>1</aceita_pet>
             <estado>PR</estado>
             <cidade>Curitiba</cidade>
             <bairro>Novo Mundo</bairro>
